@@ -1,0 +1,13 @@
+F:\Development\Personal\HeadFirstCSharp\Pizzazz\Pizzazz\bin\Debug\netcoreapp3.1\Pizzazz.exe
+F:\Development\Personal\HeadFirstCSharp\Pizzazz\Pizzazz\bin\Debug\netcoreapp3.1\Pizzazz.deps.json
+F:\Development\Personal\HeadFirstCSharp\Pizzazz\Pizzazz\bin\Debug\netcoreapp3.1\Pizzazz.runtimeconfig.json
+F:\Development\Personal\HeadFirstCSharp\Pizzazz\Pizzazz\bin\Debug\netcoreapp3.1\Pizzazz.runtimeconfig.dev.json
+F:\Development\Personal\HeadFirstCSharp\Pizzazz\Pizzazz\bin\Debug\netcoreapp3.1\Pizzazz.dll
+F:\Development\Personal\HeadFirstCSharp\Pizzazz\Pizzazz\bin\Debug\netcoreapp3.1\Pizzazz.pdb
+F:\Development\Personal\HeadFirstCSharp\Pizzazz\Pizzazz\obj\Debug\netcoreapp3.1\Pizzazz.csprojAssemblyReference.cache
+F:\Development\Personal\HeadFirstCSharp\Pizzazz\Pizzazz\obj\Debug\netcoreapp3.1\Pizzazz.AssemblyInfoInputs.cache
+F:\Development\Personal\HeadFirstCSharp\Pizzazz\Pizzazz\obj\Debug\netcoreapp3.1\Pizzazz.AssemblyInfo.cs
+F:\Development\Personal\HeadFirstCSharp\Pizzazz\Pizzazz\obj\Debug\netcoreapp3.1\Pizzazz.csproj.CoreCompileInputs.cache
+F:\Development\Personal\HeadFirstCSharp\Pizzazz\Pizzazz\obj\Debug\netcoreapp3.1\Pizzazz.dll
+F:\Development\Personal\HeadFirstCSharp\Pizzazz\Pizzazz\obj\Debug\netcoreapp3.1\Pizzazz.pdb
+F:\Development\Personal\HeadFirstCSharp\Pizzazz\Pizzazz\obj\Debug\netcoreapp3.1\Pizzazz.genruntimeconfig.cache
