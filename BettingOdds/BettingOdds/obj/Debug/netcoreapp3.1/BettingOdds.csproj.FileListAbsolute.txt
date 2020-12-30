@@ -1,0 +1,13 @@
+F:\Development\Personal\HeadFirstCSharp\BettingOdds\BettingOdds\bin\Debug\netcoreapp3.1\BettingOdds.exe
+F:\Development\Personal\HeadFirstCSharp\BettingOdds\BettingOdds\bin\Debug\netcoreapp3.1\BettingOdds.deps.json
+F:\Development\Personal\HeadFirstCSharp\BettingOdds\BettingOdds\bin\Debug\netcoreapp3.1\BettingOdds.runtimeconfig.json
+F:\Development\Personal\HeadFirstCSharp\BettingOdds\BettingOdds\bin\Debug\netcoreapp3.1\BettingOdds.runtimeconfig.dev.json
+F:\Development\Personal\HeadFirstCSharp\BettingOdds\BettingOdds\bin\Debug\netcoreapp3.1\BettingOdds.dll
+F:\Development\Personal\HeadFirstCSharp\BettingOdds\BettingOdds\bin\Debug\netcoreapp3.1\BettingOdds.pdb
+F:\Development\Personal\HeadFirstCSharp\BettingOdds\BettingOdds\obj\Debug\netcoreapp3.1\BettingOdds.AssemblyInfoInputs.cache
+F:\Development\Personal\HeadFirstCSharp\BettingOdds\BettingOdds\obj\Debug\netcoreapp3.1\BettingOdds.AssemblyInfo.cs
+F:\Development\Personal\HeadFirstCSharp\BettingOdds\BettingOdds\obj\Debug\netcoreapp3.1\BettingOdds.csproj.CoreCompileInputs.cache
+F:\Development\Personal\HeadFirstCSharp\BettingOdds\BettingOdds\obj\Debug\netcoreapp3.1\BettingOdds.dll
+F:\Development\Personal\HeadFirstCSharp\BettingOdds\BettingOdds\obj\Debug\netcoreapp3.1\BettingOdds.pdb
+F:\Development\Personal\HeadFirstCSharp\BettingOdds\BettingOdds\obj\Debug\netcoreapp3.1\BettingOdds.genruntimeconfig.cache
+F:\Development\Personal\HeadFirstCSharp\BettingOdds\BettingOdds\obj\Debug\netcoreapp3.1\BettingOdds.csprojAssemblyReference.cache
