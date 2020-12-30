@@ -1,0 +1,13 @@
+F:\Development\Personal\HeadFirstCSharp\GuysApp\GuysApp\bin\Debug\netcoreapp3.1\GuysApp.exe
+F:\Development\Personal\HeadFirstCSharp\GuysApp\GuysApp\bin\Debug\netcoreapp3.1\GuysApp.deps.json
+F:\Development\Personal\HeadFirstCSharp\GuysApp\GuysApp\bin\Debug\netcoreapp3.1\GuysApp.runtimeconfig.json
+F:\Development\Personal\HeadFirstCSharp\GuysApp\GuysApp\bin\Debug\netcoreapp3.1\GuysApp.runtimeconfig.dev.json
+F:\Development\Personal\HeadFirstCSharp\GuysApp\GuysApp\bin\Debug\netcoreapp3.1\GuysApp.dll
+F:\Development\Personal\HeadFirstCSharp\GuysApp\GuysApp\bin\Debug\netcoreapp3.1\GuysApp.pdb
+F:\Development\Personal\HeadFirstCSharp\GuysApp\GuysApp\obj\Debug\netcoreapp3.1\GuysApp.csprojAssemblyReference.cache
+F:\Development\Personal\HeadFirstCSharp\GuysApp\GuysApp\obj\Debug\netcoreapp3.1\GuysApp.AssemblyInfoInputs.cache
+F:\Development\Personal\HeadFirstCSharp\GuysApp\GuysApp\obj\Debug\netcoreapp3.1\GuysApp.AssemblyInfo.cs
+F:\Development\Personal\HeadFirstCSharp\GuysApp\GuysApp\obj\Debug\netcoreapp3.1\GuysApp.csproj.CoreCompileInputs.cache
+F:\Development\Personal\HeadFirstCSharp\GuysApp\GuysApp\obj\Debug\netcoreapp3.1\GuysApp.dll
+F:\Development\Personal\HeadFirstCSharp\GuysApp\GuysApp\obj\Debug\netcoreapp3.1\GuysApp.pdb
+F:\Development\Personal\HeadFirstCSharp\GuysApp\GuysApp\obj\Debug\netcoreapp3.1\GuysApp.genruntimeconfig.cache
